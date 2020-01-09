@@ -1,6 +1,10 @@
-# Alfred: Toggle Function Keys On/Off in OSX Catalina+
+# Alfred: Toggle Fn Function Keys On/Off in OSX Catalina+
 
 Simple Alfred Script to toggles Function Keys in OSX Catalina using Apple Script  
+
+### Requirements
+
+[Alfred 4.](https://www.alfredapp.com/)
 
 ### Why?
 
