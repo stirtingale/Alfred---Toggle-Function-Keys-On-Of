@@ -6,6 +6,13 @@ Simple Alfred Script to toggles Function Keys in OSX Catalina using Apple Script
 
 [Alfred 4.](https://www.alfredapp.com/)
 
+### Install
+
+Download [Toggle Function Keys.alfredworkflow](https://github.com/stirtingale/Alfred---Toggle-Function-Keys-On-Of/raw/master/Toggle%20Function%20Keys.alfredworkflow). Open file and import into Alred.
+
+Bind keys to whatever you need. Default *control + escape*
+
+
 ### Why?
 
 ![keyboard](key.jpg)
