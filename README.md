@@ -12,6 +12,13 @@ Download [Toggle Function Keys.alfredworkflow](https://github.com/stirtingale/Al
 
 Bind keys to whatever you need. Default *control + escape*
 
+### Legacy Support
+
+Each update of OSX typically breaks the shortcut as the checkbox positioning changes.
+
+Previous versions of the workflow will are kept to allow those on older operating systems to continue to use it.
+
+The filename includes the OS version it works for ( e.g. toggle-functions-keys-big-sur.workflow )
 
 ### Why?
 
