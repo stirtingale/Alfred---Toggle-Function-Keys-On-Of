@@ -27,3 +27,7 @@ The filename includes the OS version it works for ( e.g. toggle-functions-keys-b
 Did you just figure out that your $6k Mac Pro ships with a silver and black Magic Keyboard that somehow doesn't have a function key to enable you toggle between OS functions and number function keys. 
 
 Bind this to whatever you want a you are sorted.
+
+## Requirements
+
+If prompted ensure you have allowed the script the correct permissions under System Preferences > Privacy & Security > Accessiblity. 
